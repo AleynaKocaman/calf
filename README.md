@@ -1,19 +1,13 @@
-# calf
+# RFID ile Buzağıların Kimliklendirilmesi ve Hassas Tartı ile Ölçüm Değerlerinin Web Sayfasına Yansıtılması
 
-## Mehaba sizlere bu  yazdığım kod ile oluşan web sayfanın anlatımını yapacağım.
- 👋
-RFID ile Buzağıların Kimliklendirilmesi ve hassas tartı ile  ölçüm değerlerinin web sayfasına yansıtılması için yazılan kodlar
+1. **Ana Sayfa**: Buzağıların kimliklendirilmesi ve ölçüm değerlerinin görüntülenmesi için oluşturulan ana sayfa [burada](https://github.com/AleynaKocaman/calf/blob/main/homepage.php) 🇪🇸.  
+   ![Ana Sayfa Ekran Görüntüsü](screenshhot\anasayfa.png)
 
-- Oluşturulan ana sayfa  [here](https://github.com/AleynaKocaman/calf/blob/main/homepage.php) 🇪🇸.
-![Resim Açıklaması](screenshhot/Ekran görüntüsü 2024-09-10 165441.png)
+2. **Buzağı Ekleme Sayfası**: Yeni buzağıların eklenmesi için kullanılan sayfanın ekran görüntüsü [burada](https://github.com/AleynaKocaman/calf/blob/main/addcalf.php) 🇵🇹.  
+   ![Buzağı Ekle Sayfası Ekran Görüntüsü](screenshhot\anasayfa.png)
 
-- Buzağı ekle sayfasının ekran görüntüsü [here](https://github.com/AleynaKocaman/calf/blob/main/addcalf.php) 🇵🇹.
-![Resim Açıklaması](screenshhot/Ekran görüntüsü 2024-09-10 165441.png)
+3. **Buzağı Kilo Durum Raporu Sayfası**: Buzağıların kilo durumlarını raporlayan sayfanın ekran görüntüsü [burada](https://github.com/AleynaKocaman/calf/blob/main/calfkg.php) 🇫🇷.  
+   ![Buzağı Kilo Durum Raporu Ekran Görüntüsü](screenshhot\anasayfa.png)
 
-- Buzağı Kilo Durum Raporu sayfanın ekran görüntüsü (https://github.com/AleynaKocaman/calf/blob/main/calfkg.php) 🇫🇷.
-![Resim Açıklaması](screenshhot\/Ekran görüntüsü 2024-09-10 165441.png)
-
-- Buzağıların kilolarını bireysel incelemel için açılan sayfanın ekran görüntüsü sayfanın ekran görüntüsü (https://github.com/AleynaKocaman/calf/blob/main/onecalfkg.php) 🇫🇷.
-![Resim Açıklaması](screenshhot\/Ekran görüntüsü 2024-09-10 165441.png)
-
-
+4. **Bireysel Buzağı Kilo İnceleme Sayfası**: Her bir buzağının kilo verilerini bireysel olarak incelemek için kullanılan sayfanın ekran görüntüsü [burada](https://github.com/AleynaKocaman/calf/blob/main/onecalfkg.php) 🇫🇷.  
+   ![Bireysel Buzağı Kilo İnceleme Sayfası Ekran Görüntüsü](screenshhot\anasayfa.png)
